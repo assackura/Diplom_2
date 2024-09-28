@@ -1,6 +1,3 @@
-import random
-from http.client import responses
-
 import pytest
 
 from api_methods.orders import Orders
